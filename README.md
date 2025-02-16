@@ -16,7 +16,6 @@ My journey from a technical background in software development and project manag
 - Will Added More...
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -28,7 +27,6 @@ My journey from a technical background in software development and project manag
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/joeyregawa/SOC-Automation-Project">SOC Automation Project</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
