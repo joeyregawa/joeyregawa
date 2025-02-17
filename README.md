@@ -13,6 +13,7 @@ My journey from a technical background in software development and project manag
 - <a href="https://github.com/joeyregawa/Active-Directory-Project"> Active Directory Project
 - <a href="https://github.com/joeyregawa/HomeLab_Kali_Ubuntu_UFW_Wireshark"> Home Lab Ubuntu UFW Kali Wireshark
 - <a href="https://github.com/joeyregawa/Portofolio_Google_Cybersecurity_Activity"> Google Cybersecurity Portofolio
+- <a href="https://github.com/joeyregawa/Cybersecurity-Investigation-Risk-Report"> Cybersecurity Investigation Risk Report
 - Will Added More...
 
 ## Skills
@@ -25,6 +26,7 @@ My journey from a technical background in software development and project manag
 | Incident Response Planning and Execution      | <a href="https://github.com/joeyregawa/SOC-Automation-Project">SOC Automation Project</a>|
 | Case Management with TheHive                  | <a href="https://github.com/joeyregawa/SOC-Automation-Project">SOC Automation Project</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/joeyregawa/SOC-Automation-Project">SOC Automation Project</a>|
+| Risk Assesment, OSINT, Risk Management, Security Analysis | <a href="https://github.com/joeyregawa/Cybersecurity-Investigation-Risk-Report">Cybersecurity Investigation Risk Report</a>|
 
 ## Tools
 
@@ -62,8 +64,15 @@ My journey from a technical background in software development and project manag
     <img src="https://img.shields.io/badge/-VirusTotal-FF7A00?&style=for-the-badge&logo=VirusTotal&logoColor=white" /> 
 </div>
 
+### Investigation & Risk Assessment
+<div> 
+    <img src="https://img.shields.io/badge/-OSINT-005C8A?&style=for-the-badge&logo=Searchengin&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-1D7DE3?&style=for-the-badge&logo=MITRE&logoColor=white" /> 
+</div>
+
+
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://www.credly.com/badges/e78367bc-4bca-4718-ae1f-7106e6cfcaab/linked_in?t=sp5q0q" target="_blank">
    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
